@@ -15,16 +15,18 @@ Um simples **conversor de moedas** desenvolvido em **JavaScript**, que permite c
 - **CSS**
 - **JavaScript**
 
-- Durante o desenvolvimento deste projeto, aprendi a:
+## 🧠 Aprendizados 
 
-Trabalhar com eventos de clique e input
+Durante o desenvolvimento deste projeto, aprendi a:
 
-Realizar cálculos e formatar valores monetários
+- Trabalhar com eventos de clique e input
 
-Criar interfaces simples e funcionais com HTML e CSS
+- Realizar cálculos e formatar valores monetários
 
-- 🧑‍💻 Autor
+- Criar interfaces simples e funcionais com HTML e CSS
 
-Otávio Augusto da Silva Rosa
-📧 otavio.augusto.rosa1@gmail.com
-🌐 https://www.linkedin.com/in/otavio-augusto-846581249
+## 🧑‍💻 Autor
+
+**Otávio Augusto da Silva Rosa**  
+📧 [otavio.augusto.rosa1@gmail.com](mailto:otavio.augusto.rosa1@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/otavio-augusto-846581249)
